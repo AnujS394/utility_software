@@ -1,0 +1,10 @@
+{
+  "description": "Monitor and manage up to 200 three-phase electrical meters via MQTT with real-time data, bulk operations, detailed views, and Excel export.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
